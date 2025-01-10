@@ -12,7 +12,7 @@
 ```jsx
 backend : npm run start:dev (Mongo)
 backend : npx ts-node src/seed.ts (Script)
-frontend: npm run dev
+frontend: npm run dev (NuxtJS)
 ```
 
 ## Install
